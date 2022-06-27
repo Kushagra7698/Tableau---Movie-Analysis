@@ -15,3 +15,4 @@ I want to know following things with respect to Director: -
 
 ## Screenshots
 
+![2022-06-27](https://user-images.githubusercontent.com/99001699/175883277-51935237-0f3d-4066-9bb8-fcea65c4ea26.png)
